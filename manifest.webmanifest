@@ -1,0 +1,42 @@
+{
+  "id": "/kedim-blocks-preview/",
+  "name": "Kedim Blocks (preview)",
+  "short_name": "Kedim Blocks",
+  "description": "Kedim Blocks by Zaib: drag cute clay blocks onto the 8x8 board, fill rows and columns to pop them, and chain clears for big combos. Endless mode with a best score, a new Daily board every day and a 40 level Adventure with Kedim the orange cat. Earn Batik and Kuih skins by playing. Free, kid-friendly.",
+  "lang": "en",
+  "start_url": "/kedim-blocks-preview/?source=pwa",
+  "scope": "/kedim-blocks-preview/",
+  "display": "standalone",
+  "orientation": "any",
+  "theme_color": "#ff9d3c",
+  "background_color": "#ff9d3c",
+  "categories": [
+    "games"
+  ],
+  "icons": [
+    {
+      "src": "/kedim-blocks-preview/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/kedim-blocks-preview/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/kedim-blocks-preview/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/kedim-blocks-preview/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
